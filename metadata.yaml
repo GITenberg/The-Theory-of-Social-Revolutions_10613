@@ -1,0 +1,30 @@
+_repo: The-Theory-of-Social-Revolutions_10613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Brooks
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '2168'
+    url: http://www.gutenberg.org/2009/agents/2168
+    wikipedia: http://en.wikipedia.org/wiki/Brooks_Adams
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Courts -- United States'
+- !lcc 'JC'
+- !lcsh 'Revolutions'
+- GITenberg
+tableOfContents: The collapse of capitalistic government -- The limitations of the
+  judicial function -- American courts as legislative chambers -- The social equilibrium
+  -- Political courts -- Inferences.
+title: The Theory of Social Revolutions
+url: http://www.gutenberg.org/ebooks/10613
