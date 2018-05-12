@@ -1,5 +1,8 @@
 _repo: The-Theory-of-Social-Revolutions_10613
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Brooks
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2168
     wikipedia: http://en.wikipedia.org/wiki/Brooks_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10613#The-Theory-of-Social-Revolutions
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
